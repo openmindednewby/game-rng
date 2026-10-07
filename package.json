@@ -1,6 +1,6 @@
 {
   "name": "@dloizides/game-rng",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Deterministic seeded randomness for games: mulberry32 PRNG, FNV-1a string-seed hashing, range/pick helpers and daily/random seed builders. Zero deps, isomorphic. Extracted from Surge + Aurora; bit-identical to Surge/src/rng.ts.",
   "keywords": [
     "prng",
